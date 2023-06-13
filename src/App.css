@@ -1,0 +1,31 @@
+.container {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.col {
+  max-width: 400px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.mainTitle {
+  font-size: 28px;
+  text-align: center;
+}
+
+.subTtitle {
+  font-size: 24px;
+  text-align: center;
+}
+
+.textGroup {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
