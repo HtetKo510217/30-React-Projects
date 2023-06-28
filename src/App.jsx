@@ -1,6 +1,7 @@
 import React from 'react'
 import './App.css'
-import SlideToUnlockApp from './projects/08-slide-to-unlock-app/SlideToUnlockApp'
+import SliderToGrowApp from './projects/09-slider-to-grow-app/SliderToGrowApp'
+// import SlideToUnlockApp from './projects/08-slide-to-unlock-app/SlideToUnlockApp'
 // import TemperatureControllerApp from './projects/06-temperature-controller/TemperatureControllerApp'
 // import LightAndDarkModeApp from './projects/07-light-and-dark-mode/LightAndDarkModeApp'
 // import LikePhotoApp from './projects/03-like-my-photo/LikePhotoApp'
@@ -21,7 +22,8 @@ export default function App() {
       {/* <AlertApp /> */}
       {/* <TemperatureControllerApp /> */}
       {/* <LightAndDarkModeApp /> */}
-      <SlideToUnlockApp />
+      {/* <SlideToUnlockApp /> */}
+      <SliderToGrowApp />
     </>
   )
 }
